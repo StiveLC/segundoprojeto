@@ -1,0 +1,81 @@
+body{
+
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+    margin:auto;
+    color: rgba(130, 130, 130, 1);
+}
+
+#hero {
+
+    width: 626px;
+    margin:0 auto 32px;
+}
+
+#hero img{
+    margin-bottom:32px;
+   
+}
+
+p  footer{
+
+    margin:auto;
+    font-family:'Open Sans', sans-serif;
+    text-align: center;
+}
+h1{
+margin:auto;
+font-family:'Dosis';
+font-size: 32px;
+line-height: 40px;
+font-weight: normal;
+margin-bottom: 16px;
+}
+h1 span {
+    font-weight: bold;
+
+  }
+
+  span {
+
+    color:rgba(63, 61, 86, 1)
+
+  }
+
+  #destino{
+
+    color: rgba(238, 36, 255, 1);
+
+
+  }
+
+
+  #footer a {
+    margin-bottom:59px ;
+    margin-right: 48px ;
+    color:rgba(63, 61, 86, 1)
+  }
+  
+  
+  #line{
+
+ width:391px;
+ height:0px;
+margin:0 auto 16px;
+ border: 1px rgb(180, 180, 181) solid;
+
+
+  }
+  
+  
+  #onda { 
+
+position:fixed;
+bottom:0;
+right: 0;
+margin:-10px;
+
+
+
+  }
+
